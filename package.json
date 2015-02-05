@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cylon-intel-iot": "*"
+    "cylon-intel-iot": "*",
+    "cylon-api-http": "*"
   }
 }
