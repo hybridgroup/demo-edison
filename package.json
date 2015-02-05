@@ -1,25 +1,12 @@
 {
-  "name": "cylon-example",
+  "name": "cylon-demo-edison",
   "version": "0.0.0",
-  "description": "cylon-example =============",
-  "main": "index.js",
-  "directories": {
-    "example": "examples"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-  },
+  "description": "cylon-demo-edison =============",
+  "main": "alarm.js",
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/adzankich/cylon-example/issues"
-  },
-  "homepage": "https://github.com/adzankich/cylon-example",
   "dependencies": {
-    "cylon-intel-iot": "*",
+    "cylon-intel-iot": "*"
   }
 }
 
