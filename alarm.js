@@ -1,6 +1,6 @@
 var Cylon = require("cylon");
 
-Cylon.api("http", {host: "0.0.0.0", ssl: false});
+Cylon.api("http", {host: "0.0.0.0", port: "4567", ssl: false});
 
 Cylon.robot({
   name: "edison",
