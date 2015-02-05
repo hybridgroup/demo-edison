@@ -3,10 +3,12 @@
   "version": "0.0.0",
   "description": "cylon-demo-edison =============",
   "main": "alarm.js",
+  "scripts": {
+    "start": "node alarm.js"
+  },  
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cylon-intel-iot": "*"
   }
 }
-
